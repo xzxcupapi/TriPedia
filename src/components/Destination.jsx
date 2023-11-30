@@ -11,7 +11,7 @@ const Destination = () => {
         Most Popular Destinations
       </h1>
 
-      <div className=" flex flex-col lg:flex-row gap-5 mt-14">
+      <div className=" flex flex-col lg:flex-row gap-5 mt-14 mb-10">
         <DestinationCard
           img={img1}
           title="Museum Macan"

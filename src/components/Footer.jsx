@@ -64,7 +64,7 @@ const Footer = () => {
         </div>
         <div>
           <h1 className=" font-medium text-xl pb-4 pt-5 md:pt-0">Follow us</h1>
-          <nav className=" flex flex-col md:items-center gap-2">
+          <nav className=" flex flex-row md:items-center gap-5">
             <a href="#" target="_blank">
               <FaLinkedin
                 size={25}

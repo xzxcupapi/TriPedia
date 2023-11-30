@@ -17,16 +17,18 @@ const Contact = () => {
               name="userName"
               id="userName"
               placeholder="Enter your name"
+              required
             />
           </div>
           <div className=" flex flex-col">
             <label htmlFor="userEmail">Email</label>
             <input
               className=" py-3 px-2 rounded-lg hover:shadow-[rgba(0,_0,_0,_0.24)_0px_3px_8px] transition-all"
-              type="text"
+              type="email"
               name="userEmail"
               id="userEmail"
               placeholder="Enter your email"
+              required
             />
           </div>
           <div className=" flex flex-col">
@@ -37,6 +39,7 @@ const Contact = () => {
               id="userMessage"
               cols="30"
               rows="3"
+              required
             ></textarea>
           </div>
 

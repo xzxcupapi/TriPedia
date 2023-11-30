@@ -1,0 +1,54 @@
+colors: {
+    darkBackground: "#0C111F"
+    brightColor: "#F0EC7D"
+}
+
+
+HOME -:
+Discover the Best Destinations In JAKARTA
+
+With TriPedia you can experience new travel and the best tourist 
+destinations that we have to offer
+
+FEATURES -:
+Get Ready to Explore, Get Ready to Experience!
+
+Discover the Best Holiday Experiences with TriPedia! We're
+dedicated to curating the latest and greatest destinations from
+around the world, ensuring you always get the ultimate travel
+experience
+
+Friendly Service
+We will provide excellent and friendly service for the sake of our customers.
+
+Unforgettable experience
+We will provide excellent and Unforgettable experience for the sake of our customers.
+
+Affordable prices
+We will provide excellent and friendly service for the sake of our customers.
+
+Destinations -:
+
+-Museum Macan
+
+Museum MACAN or the Museum of Modern and Contemporary Art in Nusantara, is a prominent art institution located in Jakarta, Indonesia. 
+
+-Art1 New Museum
+
+Art:1 New Museum originated as a private art gallery known as Mon Décor. The gallery underwent a name change to Art:1 New Museum in 2009. It houses a diverse collection of over 2500 artworks, showcasing a blend of contemporary and classic pieces.
+
+-Museum Harry Darsono
+
+Museum Harry Darsono, inaugurated in 2001, stands as the premier fashion museum in Asia. Named after the renowned Indonesian fashion designer, the museum is a testament to the rich legacy and contributions of Harry Darsono to the world of fashion.
+
+About -:
+
+At TriPedia, we are ready to provide you with the best trip of your life!
+
+Your dream vacation awaits, and we're here to make it a reality.
+
+Contact -:
+
+We'd love to hear from you! Whether you have questions, feedback, or need assistance with your travel plans, please don't hesitate to reach out. Our team is here to assist you every step of the way.
+Simply fill out the form below, and we'll be in touch shortly.
+

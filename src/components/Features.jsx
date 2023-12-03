@@ -19,9 +19,9 @@ const Features = () => {
             world, ensuring you always get the ultimate travel experience
           </p>
         </div>
-        <div className=" w-full lg:w-3/5 mt-10 lg:ml-14">
+        <div className=" w-full lg:w-3/4 mt-10 lg:ml-14">
           <img
-            className=" rounded-xl shadow-[0_20px_50px_rgba(255,_200,_84,0.8)] cursor-pointer"
+            className=" rounded-xl shadow-[0_10px_50px_rgba(255,_200,_84,0.8)] cursor-pointer"
             src={img}
             alt="Features"
           />
